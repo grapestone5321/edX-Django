@@ -1,18 +1,9 @@
 # edX-Django
 edX-Django
 
-
 -------
 
 # edX
-
-## Building Web Applications in Django
-
--------
-
-## Django Features and Libraries
-
--------
 
 ## Web Application Technologies and Django
 
@@ -25,6 +16,52 @@ edX-Django
 - Cascading Style Sheets
 
 - Introducing Structured Query Language (SQL)
+
+-------
+
+## Building Web Applications in Django
+
+- Data Models
+
+- Django Views
+
+- Django Generic Views
+
+
+- Forms in HTTP and HTML
+
+-------
+
+## Django Features and Libraries
+
+- Cookies and Sessions
+
+- Users and Authentication
+
+- Django Forms
+
+- One to Many Data Models
+
+- Owned Rows
+
+- Many-to-Many Models
+
+-------
+
+## Using JavaScript, JQuery, and JSON in Django
+
+- JavaScript
+
+- Object Oriented JavaScript
+
+- jQuery
+
+- JSON/AJAX
+
+- Ads #4 - Search
+
+
+
 
 -------
 -------
