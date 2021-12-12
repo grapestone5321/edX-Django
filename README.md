@@ -16,11 +16,223 @@ edX-Django
 
 ## Web Application Technologies and Django
 
+- Introduction to Dynamic Web Content
+
+- Install Django on PythonAnywhere
+
+- Hypertext Markup Language
+
+- Cascading Style Sheets
+
+- Introducing Structured Query Language (SQL)
 
 -------
 -------
 
+# Django for Everybody (DJ4E)
+Hello and welcome to my site where you can work through these modules and learn develop Python / Django database-backed web applications.
 
+https://www.dj4e.com
+
+1: Introduction to Dynamic Web Content
+
+We look at the basic structure of a web application and how a web browser interacts with a web server. We explore the Request-Response Cycle that is the basis of the Hypertext Transfer Protocol (HTTP).
+
+
+2: Installing Django on PythonAnywhere
+
+This walks through the installation steps for Django on PythonAnywhere. If you cannot use PythonAnywhere, you can also install Django locally and submit assignments your local computer for grading. Installing Django locally will be described in an upcoming lesson.
+
+
+3: HyperText Markup Language (HTML)
+
+We briefly cover the basics of the HyperText Markup Language (HTML) that is the markup for web pages. The recorded lectures are from Web Applications for Everybody.
+
+
+
+4: Cascading Style Sheets (CSS)
+
+We briefly cover the basics of cascading Style Sheets (CSS) that allow us to style the markup for web pages.
+
+
+5: Basic SQL
+
+This is a quick look at databases in general and the basic operations (CRUD) in Structured Query Language (SQL). We don't go too far into SQL because we will be using Django's model capabilities to build the databases for our application.
+
+6: Django Data Models
+
+This section explores how we define models in Django and then we build the data models and explore the administration interface for our application.
+
+
+7: Understanding Model View Controller (MVC)
+
+We cover the concept of the Model-View-Controller (MVC) in web applications.
+
+
+8: Django Views and Templates
+
+We finally get to looking at the core of a Django application - the views and templates.
+
+
+9: Object-Oriented Programming in Python
+
+We do a quick look at how Python supports the Object-Oriented programming pattern.
+
+10: Django Generic Views
+
+We look at the generic views capability within Django.
+
+
+11: Forms in HTTP and HTML
+
+We cover how GET and POST work, how forms are constructed from HTML, how we protect our applications against Cross-Site Scripting Forgery (CSRF), and how we handle browser refreshes after POST.
+
+
+
+12: Cookies and Sessions
+
+We explore how cookies work in the browser and how to set and read cookies in Django. We then explore how cookies are used to support sessions in Django and how we use sessions in Django.
+
+
+
+13: One-To-Many Data Models
+
+We explore the design of one-to-many data models.
+
+14: Django Users and Authentication
+
+This exercise explores the interaction between authentication and our application.
+
+
+15: Form Objects in Django
+
+We cover how to use the Django built in forms objects and their connection to Django models to futher simplify our view processing.
+
+
+16: Autos CRUD Application
+
+In this assignment we build a small CRUD application from scratch to support an autos database that we will use as a base to build on going forward. This will serve as a way to review some of the concepts in the tutorial that we might have covered a little too quickly.
+
+
+17: Cats CRUD Application
+
+This module will build a second CRUD application to make sure you know how to make new applications according to a specification.
+
+
+
+
+
+
+
+
+
+
+
+18: Putting Django Projects into GitHub (Optional)
+
+This exercise uploads your Django
+
+
+19: Installing Django locally (optional)
+
+This is an optional exercise to install
+
+
+
+20: Owned Rows
+
+We cover how we mark objects as 'owned' by Django users.
+
+
+21: Classified Ads #1
+
+We explore crispy forms, and bootstrap menus and then use owned rows we write
+
+
+22: Many-To-Many Data Models
+
+We further explore the design of many-to-many data models and write a Django
+
+
+23: JavaScript
+
+We take a quick look at the JavaScript language and how it is used in the
+
+
+24: Object Oriented Programming in JavaScript
+
+We do a quick look at how the JavaScript
+
+
+25: Classified Ads #2
+
+We add pictures and comments to our classified ads application.
+
+
+26: jQuery
+
+This is a brief introduction to the jQuery library which is widely used to do in-
+
+
+27: JSON / AJAX
+
+In this section we look at JavaScript Object Notation (JSON). JSON is
+
+
+28: Classified Ads #3
+
+We add favorites to our classified ads application.
+
+29: Classified Ads #4
+
+We add search a feature our classified ads application.
+
+
+30: Building an Application on Your Own
+
+This week - in the auto grader - you will
+
+
+31: Project Overview
+
+Introduce your project to the rest of the class.
+
+
+32: Project Milestone 2
+
+Introduce your project to the rest of the class.
+
+
+33: Project Milestone 3
+
+Design a first verson of the user interface (UI) for your project.
+
+34: Project Milestone 4
+
+Design a first verson of the data model (UI) for your project.
+
+
+35: Project Milestone 5 - Project Review
+
+This is a project review to get feedback to
+
+
+36: Project Milestone 6 - Final Report
+
+This is the final project submission.
+
+
+
+
+
+
+
+
+
+-------
+-------
+
+# Youtube
 
 # Django For Everybody - Full Python University Course
 https://www.youtube.com/watch?v=o0XbHvKxw7Y&t=12073s
